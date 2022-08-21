@@ -5,17 +5,17 @@ This restful is built using [go 1.18](https://go.dev)
 
 ### Run
 ```
-$ cd $GOPATH/src/go-learn-rest-crud
+$ cd $GOPATH/src/learn/go-learn-rest-crud
 $ go run main.go 
 ```
 
 ### Features
 
-- FindTasks
-- CreateTask
-- FindTask
-- UpdateTask
-- DeleteTask
+- Find Tasks
+- Create Task
+- Find Task
+- Update Task
+- Delete Task
 
 ### Postman Docs
 ---------------
