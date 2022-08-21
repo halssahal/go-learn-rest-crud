@@ -18,9 +18,9 @@ $ go run main.go
 - Delete Task
 
 ### Postman Docs
----------------
+
 - [Postman](https://www.getpostman.com/collections/16d71a2bc2d260196d5f)
 
 ### Inspired By
----------------
+
 - [REST-API-CRUD-GIN](https://github.com/Faqihyugos/rest-api-crud-gin)
